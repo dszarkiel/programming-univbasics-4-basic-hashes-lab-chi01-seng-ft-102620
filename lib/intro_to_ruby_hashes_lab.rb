@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  new_hash = {object: "Guitar"}
+  new_hash = {instrument: "Guitar"}
 end
 
 def pioneer
